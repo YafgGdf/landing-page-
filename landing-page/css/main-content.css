@@ -1,0 +1,30 @@
+.main-content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section-description {
+    display: flex;
+    margin-top: 60px;
+}
+
+.section-title{
+    font-size: 56px;
+    margin-right: 15px;
+}
+
+.section-title h1.title{
+    border-right: 5px solid var(--black);
+    width: 380px;
+}
+
+.section-paragraph{
+    height: 260px;
+    width: 900px;
+    border: 4px solid white;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    
+}
